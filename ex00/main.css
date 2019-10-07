@@ -1,0 +1,35 @@
+body
+{
+	background-color: pink;
+}
+
+h1
+{
+	color: white;
+	text-align: center;
+	font-size: 90x;
+}
+div.shop
+{
+	float: left;
+	align-content: center;
+	margin: auto;
+}
+
+div.copyright
+{
+	text-align: right;
+	font-family: monospace;
+	font-style: italic;
+	bottom: 0;
+}
+div.coverShop
+{
+	display: flex;
+}
+
+img
+{
+	height: 200px;
+	width: 200px;
+}
