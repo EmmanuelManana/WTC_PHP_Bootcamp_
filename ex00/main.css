@@ -26,10 +26,15 @@ div.copyright
 div.coverShop
 {
 	display: flex;
+	text-align: center;
 }
 
 img
 {
 	height: 200px;
 	width: 200px;
+}
+hr
+{
+	clear: both;
 }
