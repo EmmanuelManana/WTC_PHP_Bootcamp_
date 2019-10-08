@@ -1,0 +1,118 @@
+body
+{
+	background-color: #505050;
+	 margin: 18px 0 0 8px;
+}
+
+div.page
+{
+	margin: auto;
+	width: 1460px;
+}
+
+div.content {
+    margin: 0 auto;
+    width: 1420px;
+}
+
+img.day_of_42
+{
+	width: 500px;
+	height: 115px;
+	border-radius: 10px;
+	position: relative;
+	left: 10px;
+	top: 10px;
+}
+
+img.search
+{
+	position: absolute;
+	top: 10px;
+    right: 30px;
+}
+
+img.refresh
+{
+	height: 20px;
+	width: 20px;
+
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+img.delete
+{
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}
+
+
+/*---- top middle part ---*/
+.grey{
+	background-color: #909090;
+	
+}
+
+.banner {
+	height: 137px;
+    position: relative;
+}
+
+.centered
+{
+
+}
+
+.box
+{
+	border-radius: 9px;
+	box-shadow: 10px 10px 10px #000000
+}
+
+/*-----  left grey box ------*/
+.side {
+    width: 110px;
+    height: 410px;
+    margin: 30px 0 0 30px;
+    padding: 32px 0 0 32px;
+    float: left;
+}
+
+/*----- middle box ---*/
+.middle {
+	margin: 30px 0 0 30px;
+    width: 1020px;
+    height: 582px;
+    float: left;
+}
+
+img.cluster {
+    margin: 10px;
+    width: 1000px;
+    height: 562px;
+}
+/*--------------------*/
+.left
+{
+	width: 70px;
+    height: 70px;
+    margin-bottom: 6px;
+	display: flex;
+}
+
+img.book {
+	width: 70px;
+	height: 100px;
+
+}
+
+img.towel {
+	width: 70px;
+	height: 50px;
+}
+
