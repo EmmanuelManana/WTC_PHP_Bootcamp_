@@ -1,6 +1,6 @@
 
 h1 {
-	text-align: middle;
+	text-align: center;
 }
 
 .portrait {
@@ -8,10 +8,13 @@ h1 {
 }
 img
 {
-		width: 200px;
-		height: 200px;
+		width: 10%;
+		height: auto;
 		border: solid #78c28c;
 		box-shadow: 50px 50px 200px green;
+		display: block;
+	  margin-left: auto;
+  	margin-right: auto;
 }
 
 td {
