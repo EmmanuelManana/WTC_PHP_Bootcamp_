@@ -1,0 +1,62 @@
+
+h1 {
+	text-align: middle;
+}
+
+.portrait {
+	text-align: center;
+}
+img
+{
+		width: 200px;
+		height: 200px;
+		border: solid #78c28c;
+		box-shadow: 50px 50px 200px green;
+}
+
+td {
+	width: 7vw;
+	height: 2vh;
+}
+
+/* Defining Element Text Characteristics */
+
+p {
+	font-family:sans-serif
+}
+
+p.mass {
+	font-size: 0.9vmin;
+	text-align: right;
+	height: 0.1vh;
+	padding-right: 0.7vmin;
+}
+
+p.symbol {
+	font-size: 1.5vmin;
+	font-weight: bold;
+	text-align: center;
+	height: 0.1vh;
+	padding-top: 0.2vmin;
+	padding-bottom: 0.2vmin;
+
+}
+
+p.number {
+	font-size: 0.9vmin;
+	text-align: left;
+	height: 0.1vh;
+	padding-left: 0.7vmin;
+}
+
+td.diatomic           {	background-color: #d7f872; border: 2px solid black;	}
+td.noble-gas          {	background-color: #abf4f3; border: 2px solid black;	}
+td.alkali-metal       { background-color: #f58a42; border: 2px solid black; }
+td.alkaline-earth     {	background-color: #16a659; border: 2px solid black;	}
+td.metalloid          {	background-color: #93a39a; border: 2px solid black;	}
+td.polyatomic         {	background-color: #751d5b; border: 2px solid black;	}
+td.transition         {	background-color: #c9c169; border: 2px solid black;	}
+td.post-transition    {	background-color: #b8b8b8; border: 2px solid black;	}
+td.lanthanide         {	background-color: #f2a3f4; border: 2px solid black;	}
+td.actinide           {	background-color: #f27ab9; border: 2px solid black;	}
+td.unknown            {	background-color: #d7d7d7; border: 2px solid black;	}

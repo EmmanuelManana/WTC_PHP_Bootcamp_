@@ -116,3 +116,86 @@ img.towel {
 	height: 50px;
 }
 
+img.select
+{
+	border: 5px solid red;
+	border-radius: 5px;
+	margin: -5px 0 1px -5px;
+}
+
+.green
+{
+	background: #76ef84;
+}
+
+.bottom
+{
+	width: 520px;
+    height: 180px;
+
+    position: absolute;
+    top: 680px;
+    right: -50;
+    padding: 10px;
+    font-family: arial;
+    font-size: 16.5px;
+    letter-spacing: 1px;
+}
+
+.input_box {
+
+	width: 370px;
+	height: 18px;
+
+	border-top-color: #eeeeee;
+}
+
+.button {
+
+	font-size: 13.2px;
+	font-family: Helvetica;
+
+	width: 76px;
+    height: 23px;
+
+	border: 1px solid #a8a4a5;
+    border-radius: 2px;
+    background-color: #f4eff3;
+}
+/*---text styles ---*/
+.big {
+    font-family: Times;
+	font-size: 31px;
+}
+
+.shadow {
+    text-shadow: 5px 5px 5px #ff0000;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.wall
+{
+	background-image: url('resources/brick.jpg');
+	height: 70px;
+    width: 120px;
+    margin: 5px 0 0 -20px;
+}
+
+img.wall {
+	display: flex;
+	background-image: url("resources/brick.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
