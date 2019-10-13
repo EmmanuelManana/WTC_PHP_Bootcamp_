@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-date_default_timezone_set("America/Los_Angeles");
+date_default_timezone_set("yourtimeZone");
 $fd = fopen("/var/run/utmpx", "r");
     while ($info = fread($fd, 628)){
         $unpacked = unpack("a256a/a4b/a32c/id/ie/I2f/a256g/i16h", $info);
